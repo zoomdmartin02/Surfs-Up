@@ -16,9 +16,9 @@ Once we have our data, we will convert it to a Pandas dataframe and then use the
 ## Results:  Temperatures in June and December on Oahu
 Following are the results from our review of the June and December temperatures on Oahu:
 
-![](/Resources/June_temps_summary.png)
+![](/Resources/June_Temps_Summary.png)
 
-![](/Resources/December_temps_summary.png)
+![](/Resources/December_Temps_Summary.png)
 
 bulleted list with three major points from the two analysis deliverables.  Use images
 ## Summary:  high-level summary of the results and two add'l queries that you would perform to gather more weather data for June and December.
