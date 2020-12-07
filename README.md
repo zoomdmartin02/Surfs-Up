@@ -38,6 +38,21 @@ For a pictorial view of the data in June and December, see the following plots:
 
 ![](/Resources/December_Temps.png)
 
+The plots are revealing.  The temps are very symetric in June.  In December, although there are some outliers on the low side, they occur very infrequently.  The frequency of temps below 63 degrees is very infrequent and the majority of temps are 68-78 degree range with the highest freqency temp being around 73.
 
-bulleted list with three major points from the two analysis deliverables.  Use images
-## Summary:  high-level summary of the results and two add'l queries that you would perform to gather more weather data for June and December.
+This is a very comfortable temperature for surfing and icecream.
+
+## Summary:  Let's Do It
+Based on the data analyisis performed, it seems like Oahu is a good location.
+
+It would probably be a good idea to analyze other months of the year.  Following summary statistics and plots show months 1-6 and then months 7-12.
+
+![](/Resources/Fronthalf_Temps.png)
+
+![](/Resources/Fronthalf_Temps_Summary.png)
+
+![](/Resources/Backhalf_Temps.png)
+
+![](/Resources/Backhalf_Temps_Summary.png)
+
+A broader study of the temps over the front and back half of the years seems to confirm the earlier analysis.
